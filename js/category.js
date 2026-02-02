@@ -49,6 +49,16 @@ const allArticles = [
         excerpt: "Discover hidden paradises and plan your next adventure...",
         url: "best-asian-destinations-to-visit-in-2026.html",
         image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80"
+    },
+    {
+        id: 6,
+        title: "Rise Pro Apparel: Your New Silent Partner in the Field",
+        category: "fashion",
+        categoryName: "Fashion & Accessories",
+        date: "January 5, 2026",
+        excerpt: "Build a quiet, weather-ready hunting apparel system that works as your silent partner in the field.",
+        url: "rise-pro-apparel-your-new-silent-partner-in-the-field.html",
+        image: "image/2-1.png"
     }
 ];
 
